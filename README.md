@@ -1,6 +1,7 @@
 # 30daysofgooglecloud-errors-solutions
 #### The idea of this repository is to keep track of all the errors that we come across during the labs and their solutions.
-    
+
+Refer this [link](https://events.withgoogle.com/30daysofgooglecloud/program-syllabus/#content) for program syllabus.    
 <table style="width:100%">
    <tr>
       <th>Quest</th>
