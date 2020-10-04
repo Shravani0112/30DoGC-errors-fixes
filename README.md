@@ -15,13 +15,13 @@ Refer this [link](https://events.withgoogle.com/30daysofgooglecloud/program-syll
    <tr>
       <td><a href="https://google.qwiklabs.com/quests/118"> Perform Foundational Infrastructure Tasks in Google Cloud</a></td>
       <td>
-              <a href="https://google.qwiklabs.com/focuses/10603?parent=catalog">Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab </a> -
+              <a href="https://google.qwiklabs.com/focuses/10379?parent=catalog">Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab </a> -
                <a href="https://github.com/mangipudiprashanth7/30DoGC-errors-fixes/blob/main/Track-1_Skill-2/README.md">README</a></td>
    </tr>
    <tr>
       <td><a href="hhttps://google.qwiklabs.com/quests/119"> Setup and Configure a Cloud Environment in Google Cloud</a></td>
       <td>
-              <a href="https://google.qwiklabs.com/focuses/10379?parent=catalog"> Setup and Configure a Cloud Environment in Google Cloud: Challenge Lab </a> -
+              <a href="https://google.qwiklabs.com/focuses/10603?parent=catalog"> Setup and Configure a Cloud Environment in Google Cloud: Challenge Lab </a> -
                <a href="https://github.com/mangipudiprashanth7/30DoGC-errors-fixes/blob/main/Track-1_Skill-3/README.md">README</a></td>
    </tr>
    <tr>
