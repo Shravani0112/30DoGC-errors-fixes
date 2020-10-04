@@ -1,3 +1,5 @@
+Error-1:
+I got the below error while performing the lab and when I clicked the <mark>check progress</mark> an alert box popped up with this error.
 ```Powershell 
       Please verify the web servers are serving on frontend of HTTP(s) Load Balancer 
 ```
