@@ -17,7 +17,7 @@ Refer this [link](https://events.withgoogle.com/30daysofgooglecloud/program-syll
             </tr>
             <tr>
                <td><a href="https://google.qwiklabs.com/focuses/10258?parent=catalog">Getting Started: Create and Manage Cloud Resources: Challenge Lab </a></td>
-               <td><a href="#">Readme.md</a></td>
+               <td><a href="https://github.com/mangipudiprashanth7/30DoGC-errors-fixes/blob/main/Track-1_Skill-1/README.md">Readme.md</a></td>
             </tr>
          </table>
       </td>
